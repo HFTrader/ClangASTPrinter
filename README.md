@@ -10,3 +10,5 @@ Use the script
 to automatically fetch, arrange and build a valid clang tree
 
 
+https://chromium.googlesource.com/chromium/src/+/master/docs/writing_clang_plugins.md#Having-said-that
+
